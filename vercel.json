@@ -1,5 +1,5 @@
 {
-    "function": {
-        "nodeVersion": "16"
+    "functions": {
+        "nodeVersion": "16.x"
     }
 }
